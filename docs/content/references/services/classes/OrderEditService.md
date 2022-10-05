@@ -24,7 +24,7 @@ TransactionBaseService.constructor
 
 #### Defined in
 
-[packages/medusa/src/services/order-edit.ts:27](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/services/order-edit.ts#L27)
+[packages/medusa/src/services/order-edit.ts:27](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/services/order-edit.ts#L27)
 
 ## Properties
 
@@ -38,7 +38,7 @@ TransactionBaseService.\_\_configModule\_\_
 
 #### Defined in
 
-[packages/medusa/src/interfaces/transaction-base-service.ts:10](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/interfaces/transaction-base-service.ts#L10)
+[packages/medusa/src/interfaces/transaction-base-service.ts:10](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/interfaces/transaction-base-service.ts#L10)
 
 ___
 
@@ -52,7 +52,7 @@ TransactionBaseService.\_\_container\_\_
 
 #### Defined in
 
-[packages/medusa/src/interfaces/transaction-base-service.ts:9](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/interfaces/transaction-base-service.ts#L9)
+[packages/medusa/src/interfaces/transaction-base-service.ts:9](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/interfaces/transaction-base-service.ts#L9)
 
 ___
 
@@ -66,7 +66,7 @@ TransactionBaseService.manager\_
 
 #### Defined in
 
-[packages/medusa/src/services/order-edit.ts:23](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/services/order-edit.ts#L23)
+[packages/medusa/src/services/order-edit.ts:23](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/services/order-edit.ts#L23)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[packages/medusa/src/services/order-edit.ts:24](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/services/order-edit.ts#L24)
+[packages/medusa/src/services/order-edit.ts:24](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/services/order-edit.ts#L24)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[packages/medusa/src/services/order-edit.ts:25](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/services/order-edit.ts#L25)
+[packages/medusa/src/services/order-edit.ts:25](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/services/order-edit.ts#L25)
 
 ___
 
@@ -100,7 +100,7 @@ TransactionBaseService.transactionManager\_
 
 #### Defined in
 
-[packages/medusa/src/services/order-edit.ts:22](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/services/order-edit.ts#L22)
+[packages/medusa/src/services/order-edit.ts:22](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/services/order-edit.ts#L22)
 
 ## Methods
 
@@ -139,7 +139,7 @@ TransactionBaseService.atomicPhase\_
 
 #### Defined in
 
-[packages/medusa/src/interfaces/transaction-base-service.ts:50](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/interfaces/transaction-base-service.ts#L50)
+[packages/medusa/src/interfaces/transaction-base-service.ts:50](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/interfaces/transaction-base-service.ts#L50)
 
 ___
 
@@ -159,7 +159,7 @@ ___
 
 #### Defined in
 
-[packages/medusa/src/services/order-edit.ts:64](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/services/order-edit.ts#L64)
+[packages/medusa/src/services/order-edit.ts:64](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/services/order-edit.ts#L64)
 
 ___
 
@@ -180,7 +180,7 @@ ___
 
 #### Defined in
 
-[packages/medusa/src/services/order-edit.ts:40](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/services/order-edit.ts#L40)
+[packages/medusa/src/services/order-edit.ts:40](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/services/order-edit.ts#L40)
 
 ___
 
@@ -204,7 +204,7 @@ TransactionBaseService.shouldRetryTransaction\_
 
 #### Defined in
 
-[packages/medusa/src/interfaces/transaction-base-service.ts:31](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/interfaces/transaction-base-service.ts#L31)
+[packages/medusa/src/interfaces/transaction-base-service.ts:31](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/interfaces/transaction-base-service.ts#L31)
 
 ___
 
@@ -228,4 +228,4 @@ TransactionBaseService.withTransaction
 
 #### Defined in
 
-[packages/medusa/src/interfaces/transaction-base-service.ts:13](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/interfaces/transaction-base-service.ts#L13)
+[packages/medusa/src/interfaces/transaction-base-service.ts:13](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/interfaces/transaction-base-service.ts#L13)
