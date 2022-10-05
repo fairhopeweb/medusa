@@ -28,7 +28,7 @@ SoftDeletableEntity.constructor
 
 #### Defined in
 
-[models/order-edit.ts:57](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L57)
+[models/order-edit.ts:57](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L57)
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:54](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L54)
+[models/order-edit.ts:54](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L54)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:24](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L24)
+[models/order-edit.ts:24](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L24)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:42](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L42)
+[models/order-edit.ts:42](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L42)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:39](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L39)
+[models/order-edit.ts:39](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L39)
 
 ___
 
@@ -82,7 +82,7 @@ SoftDeletableEntity.created\_at
 
 #### Defined in
 
-[interfaces/models/base-entity.ts:16](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/interfaces/models/base-entity.ts#L16)
+[interfaces/models/base-entity.ts:16](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/interfaces/models/base-entity.ts#L16)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:30](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L30)
+[models/order-edit.ts:30](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L30)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:51](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L51)
+[models/order-edit.ts:51](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L51)
 
 ___
 
@@ -112,7 +112,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:45](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L45)
+[models/order-edit.ts:45](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L45)
 
 ___
 
@@ -122,7 +122,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:48](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L48)
+[models/order-edit.ts:48](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L48)
 
 ___
 
@@ -136,7 +136,7 @@ SoftDeletableEntity.deleted\_at
 
 #### Defined in
 
-[interfaces/models/soft-deletable-entity.ts:7](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/interfaces/models/soft-deletable-entity.ts#L7)
+[interfaces/models/soft-deletable-entity.ts:7](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/interfaces/models/soft-deletable-entity.ts#L7)
 
 ___
 
@@ -146,7 +146,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:64](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L64)
+[models/order-edit.ts:64](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L64)
 
 ___
 
@@ -156,7 +156,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:61](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L61)
+[models/order-edit.ts:61](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L61)
 
 ___
 
@@ -170,7 +170,7 @@ SoftDeletableEntity.id
 
 #### Defined in
 
-[interfaces/models/base-entity.ts:13](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/interfaces/models/base-entity.ts#L13)
+[interfaces/models/base-entity.ts:13](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/interfaces/models/base-entity.ts#L13)
 
 ___
 
@@ -180,7 +180,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:27](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L27)
+[models/order-edit.ts:27](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L27)
 
 ___
 
@@ -190,7 +190,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:66](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L66)
+[models/order-edit.ts:66](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L66)
 
 ___
 
@@ -200,7 +200,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:19](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L19)
+[models/order-edit.ts:19](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L19)
 
 ___
 
@@ -210,7 +210,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:15](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L15)
+[models/order-edit.ts:15](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L15)
 
 ___
 
@@ -220,7 +220,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:67](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L67)
+[models/order-edit.ts:67](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L67)
 
 ___
 
@@ -230,7 +230,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:36](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L36)
+[models/order-edit.ts:36](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L36)
 
 ___
 
@@ -240,7 +240,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:33](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L33)
+[models/order-edit.ts:33](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L33)
 
 ___
 
@@ -250,7 +250,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:60](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L60)
+[models/order-edit.ts:60](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L60)
 
 ___
 
@@ -260,7 +260,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:62](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L62)
+[models/order-edit.ts:62](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L62)
 
 ___
 
@@ -270,7 +270,7 @@ ___
 
 #### Defined in
 
-[models/order-edit.ts:63](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L63)
+[models/order-edit.ts:63](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L63)
 
 ___
 
@@ -284,7 +284,7 @@ SoftDeletableEntity.updated\_at
 
 #### Defined in
 
-[interfaces/models/base-entity.ts:19](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/interfaces/models/base-entity.ts#L19)
+[interfaces/models/base-entity.ts:19](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/interfaces/models/base-entity.ts#L19)
 
 ## Methods
 
@@ -298,4 +298,4 @@ SoftDeletableEntity.updated\_at
 
 #### Defined in
 
-[models/order-edit.ts:69](https://github.com/medusajs/medusa/blob/6225aa57b/packages/medusa/src/models/order-edit.ts#L69)
+[models/order-edit.ts:69](https://github.com/fairhopeweb/medusa/blob/c105c046/packages/medusa/src/models/order-edit.ts#L69)
